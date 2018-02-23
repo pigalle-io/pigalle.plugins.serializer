@@ -1,0 +1,22 @@
+```javascript
+
+const {SerializerPluginBase} = require('@pigalle/plugins.serializer')
+
+// A very simple JSON serializer for the Pigalle framework.
+
+class SimpleJsonSerializer extends SerializerPluginBase {
+
+  // Override inherited serialize method
+  serialize(o) {
+    return JSON.stringify(o)
+  }
+
+  // Override inherited unserialize method
+  unserialize(o) {
+    return JSON.parse(o)
+  }
+
+}
+
+
+```
