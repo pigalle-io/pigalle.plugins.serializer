@@ -1,6 +1,6 @@
 {
   "name": "@pigalle/plugins.serializer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A base to create serializers for the Pigalle framework. ",
   "main": "lib/serializer-plugin-base.js",
   "scripts": {
@@ -63,6 +63,6 @@
   },
   "dependencies": {
     "@9fv.io/notimplemented-error": "^1.0.0",
-    "@pigalle/entities.plugin": "^0.2.3"
+    "@pigalle/entities.plugin": "0.2.4"
   }
 }

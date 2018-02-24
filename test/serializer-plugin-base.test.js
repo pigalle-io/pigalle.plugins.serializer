@@ -32,9 +32,7 @@ describe('Create a instance of {SerializerPluginBase} using <new> keyword', () =
   it('should have an internal property named <type>', () => {
     (new SerializerPluginBase().internals().get('type')).should.be.not.null()
   })
-
 })
-
 
 describe('Call ', () => {
   it('<.serialize> method should throw a {NotImplementedError}', () => {
