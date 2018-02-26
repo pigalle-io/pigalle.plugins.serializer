@@ -115,6 +115,6 @@ An unimplemented abstract function to unserialize a string or a buffer.
 
 ***
 
-_Documentation generated on Sat, 24 Feb 2018 09:39:10 GMT_
+_Documentation generated on Mon, 26 Feb 2018 13:40:57 GMT_
 
 **Copyright &copy; 2018 [SAS 9 Février](https://9fevrier.com/)**
