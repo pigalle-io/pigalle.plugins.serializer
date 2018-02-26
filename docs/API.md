@@ -38,7 +38,7 @@ class SimpleJsonSerializer extends SerializerPluginBase {
         * [new SerializerPluginBase(...args)](#new_module_serializer-plugin-base..SerializerPluginBase_new)
         * [.serialize()](#module_serializer-plugin-base..SerializerPluginBase+serialize)
         * [.unserialize()](#module_serializer-plugin-base..SerializerPluginBase+unserialize)
-    * [~PIGALLE_TYPE](#module_serializer-plugin-base..PIGALLE_TYPE) : <code>string</code>
+    * [~CONSTS](#module_serializer-plugin-base..CONSTS) : <code>Object</code>
 
 <a name="module_serializer-plugin-base..SerializerPluginBase"></a>
 
@@ -83,9 +83,9 @@ An unimplemented abstract function to unserialize a string or a buffer.
 
 - <code>NotImplementedError</code> 
 
-<a name="module_serializer-plugin-base..PIGALLE_TYPE"></a>
+<a name="module_serializer-plugin-base..CONSTS"></a>
 
-#### serializer-plugin-base~PIGALLE_TYPE : <code>string</code>
+#### serializer-plugin-base~CONSTS : <code>Object</code>
 **Kind**: inner constant of [<code>serializer-plugin-base</code>](#module_serializer-plugin-base)  
 ## <a name="license"> License
 
@@ -115,6 +115,6 @@ An unimplemented abstract function to unserialize a string or a buffer.
 
 ***
 
-_Documentation generated on Mon, 26 Feb 2018 13:40:57 GMT_
+_Documentation generated on Mon, 26 Feb 2018 15:59:21 GMT_
 
 **Copyright &copy; 2018 [SAS 9 Février](https://9fevrier.com/)**
